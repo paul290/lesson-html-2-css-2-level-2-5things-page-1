@@ -21,7 +21,7 @@
   6. [x] width properties
 
 **Dev Tools**
-  1. [ ] command line part 1
+  1. [x] command line part 1
   2. [ ] chrome dev tools part 1
   3. [x] google
 
